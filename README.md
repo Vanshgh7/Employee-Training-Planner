@@ -35,5 +35,4 @@ If you found this project helpful, please star ⭐ the repository to show your s
 - Automated reminders for upcoming training sessions 🔔
 - Report generation for progress and attendance 📊
 - User authentication and personalized dashboards 👤
-- Import/export training schedules via CSV files 📂
 - Integration with popular calendar apps 🗓️
